@@ -4,6 +4,7 @@ user = -1
 total = 0
 count = 0
 while count != user:
+    print("Enter 'done' to quit")
     try:
         user = input("Enter a number: ")
         if user == "done":
