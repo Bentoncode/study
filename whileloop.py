@@ -13,4 +13,4 @@ while count != user:
         average = total / count
     except:
         print("Invalid Input")
-print("Sum is: {}, Count is: {}, Average is: {}".format(total, count, average))
+print("Total is: {}, Count is: {}, Average is: {}".format(total, count, average))
